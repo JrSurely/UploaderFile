@@ -1,0 +1,106 @@
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\ApplicationInsights.config
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\csc.exe
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\System.Collections.Immutable.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\vbc.exe
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\VBCSCompiler.exe
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\roslyn\VBCSCompiler.exe.config
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\BigFileUploader.dll.config
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\BigFileUploader.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\BigFileUploader.pdb
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Antlr3.Runtime.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.Web.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.WindowsServer.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.ApplicationInsights.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Newtonsoft.Json.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Helpers.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Mvc.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Optimization.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Razor.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.Deployment.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.Razor.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\WebGrease.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.Web.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.AI.WindowsServer.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.ApplicationInsights.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Helpers.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Mvc.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Optimization.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.Razor.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.Deployment.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\System.Web.WebPages.Razor.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Antlr3.Runtime.pdb
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\bin\Newtonsoft.Json.xml
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\obj\Debug\BigFileUploader.csprojResolveAssemblyReference.cache
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\obj\Debug\BigFileUploader.dll
+c:\users\zhoufugui\documents\visual studio 2015\Projects\BigFileUploader\BigFileUploader\obj\Debug\BigFileUploader.pdb
+D:\study\UploaderFile\BigFileUploader\bin\ApplicationInsights.config
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\csc.exe
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\System.Collections.Immutable.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\vbc.exe
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\VBCSCompiler.exe
+D:\study\UploaderFile\BigFileUploader\bin\roslyn\VBCSCompiler.exe.config
+D:\study\UploaderFile\BigFileUploader\bin\BigFileUploader.dll.config
+D:\study\UploaderFile\BigFileUploader\bin\BigFileUploader.dll
+D:\study\UploaderFile\BigFileUploader\bin\BigFileUploader.pdb
+D:\study\UploaderFile\BigFileUploader\bin\Antlr3.Runtime.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.DependencyCollector.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.Web.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.WindowsServer.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.ApplicationInsights.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.Web.Infrastructure.dll
+D:\study\UploaderFile\BigFileUploader\bin\Newtonsoft.Json.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Helpers.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Mvc.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Optimization.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Razor.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.Deployment.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.dll
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.Razor.dll
+D:\study\UploaderFile\BigFileUploader\bin\WebGrease.dll
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.DependencyCollector.xml
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.Web.xml
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.AI.WindowsServer.xml
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.ApplicationInsights.xml
+D:\study\UploaderFile\BigFileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Helpers.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Mvc.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Optimization.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.Razor.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.Deployment.xml
+D:\study\UploaderFile\BigFileUploader\bin\System.Web.WebPages.Razor.xml
+D:\study\UploaderFile\BigFileUploader\bin\Antlr3.Runtime.pdb
+D:\study\UploaderFile\BigFileUploader\bin\Newtonsoft.Json.xml
+D:\study\UploaderFile\BigFileUploader\obj\Debug\BigFileUploader.csprojResolveAssemblyReference.cache
+D:\study\UploaderFile\BigFileUploader\obj\Debug\BigFileUploader.dll
+D:\study\UploaderFile\BigFileUploader\obj\Debug\BigFileUploader.pdb
